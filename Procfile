@@ -1,1 +1,1 @@
-worker: python corrin.py
+worker: python quantum.py
